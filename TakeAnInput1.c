@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 void main()
 
 {
@@ -7,9 +7,9 @@ void main()
 	char isim[10];
 	int yas;
 
-	printf("adinizi giriniz: "); scanf ("%s",isim );
+	printf("adinizi giriniz: "); scanf ("%s",&isim );
 	printf("yasinizi giriniz:" ); scanf ("%d",&yas);
 
 	printf("merhaba %s yasiniz %d",isim,yas );
-
+   system("pause");
 }

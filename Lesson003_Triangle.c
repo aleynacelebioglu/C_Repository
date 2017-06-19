@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<stdlib.h>
 void main()
 {
 
@@ -15,4 +15,6 @@ void main()
 		printf("\n");
 
 	}
+
+	system("pause");
 }

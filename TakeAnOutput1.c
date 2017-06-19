@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 void main()
 {
 	char ad[10]="aleyna"; 
@@ -12,7 +12,7 @@ void main()
 			"yaşınız: %d\n "
 			"boyunuz: %.2f",ad,ad[3],soyad,yas,boy);
   
-
+system ("pause");
 }
 
 	
