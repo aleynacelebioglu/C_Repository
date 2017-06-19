@@ -1,9 +1,0 @@
-﻿  Test.c
-c:\users\asus\documents\github\c_repository\my_c_lesson\my_c_lesson\test.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' bildirimine bakın
-c:\users\asus\documents\github\c_repository\my_c_lesson\my_c_lesson\test.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' bildirimine bakın
-c:\users\asus\documents\github\c_repository\my_c_lesson\my_c_lesson\test.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' bildirimine bakın
-  My_C_Lesson.vcxproj -> C:\Users\asus\Documents\GitHub\C_Repository\My_C_Lesson\Debug\My_C_Lesson.exe
-  My_C_Lesson.vcxproj -> C:\Users\asus\Documents\GitHub\C_Repository\My_C_Lesson\Debug\My_C_Lesson.pdb (Partial PDB)
