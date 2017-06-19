@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 void main()
@@ -11,7 +12,7 @@ void main()
 
 
 	float a, b, c, average;
-	printf(" enter the first number : ");
+	printf(" enter the first number : " );
 	scanf("%f", &a);
 
 	printf(" enter the second number : ");
@@ -20,6 +21,6 @@ void main()
 	printf(" enter the third number : ");
 	scanf("%f", &c);
 	average = (a + b + c) / 3;
-	printf("Averege is ...  %f ", average);
+	printf("Averege is ...  %f " ,average );
 	system("Pause");
 }
