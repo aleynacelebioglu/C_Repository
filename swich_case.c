@@ -5,7 +5,7 @@
 
 void main()
 {
-
+//this app is defines your exam marks.
 int point;
 printf("Enter your point ");
 scanf("%d", &point);
