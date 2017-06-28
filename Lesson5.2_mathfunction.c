@@ -1,8 +1,7 @@
-
-/*#include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-int main()
+void main()
 {
 	
 
@@ -24,26 +23,27 @@ int main()
 	switch (operation)
 	{
 	case'a':
-		int a1;
+		int a1 =0;
 		printf("enter a integer number ");
 		scanf("%d", &a1);
 		printf("Result is : %d", abs(a1)); break;
 
 
 	case'b':
-		int b1;
+		int b1 = 0;
 		printf("enter a float number ");
 		scanf("%f", &b1);
 		printf("Result is : %1f", fabs(b1)); break;
 
 
-	case'c': int c1;
+	case'c': 
+	int c1 =0;
 		printf("enter a integer number ");
 		scanf("%d", &c1);
 		printf("Result is : %1f", sqrt(c1)); break;
 
 	case'd':
-		int d1;
+		int d1=0;
 		printf("enter a integer number ");
 		scanf("%d", &d1);
 		printf("enter the second number for exponent");
@@ -67,9 +67,9 @@ int main()
 	default:printf(" error ");
 
 		break;
-	}
-
+	
+}
 
 	system("pause");
 
-}*/
+}
